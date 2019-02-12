@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "440676007095",
+    "firebase_url": "https://chatapplication-3d53e.firebaseio.com",
+    "project_id": "chatapplication-3d53e",
+    "storage_bucket": "chatapplication-3d53e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440676007095:android:6b9ea5bb3b3dfc92",
+        "android_client_info": {
+          "package_name": "com.example.nzaidi.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440676007095-e4i8h1erf2mik8fbp2oc7kduj0bb5nuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nzaidi.chat_application",
+            "certificate_hash": "a7980ea527e24f5fb3b11ebeda9f4662a7ea3f84"
+          }
+        },
+        {
+          "client_id": "440676007095-lvbnd0pt031fopkat4sf394o0fkjjb17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzhAtOeWgM6mtm7PwtW2th6bcAo1XbwgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440676007095-lvbnd0pt031fopkat4sf394o0fkjjb17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
